@@ -1,4 +1,3 @@
 # SmartTrolling Whitelist 
-#max
 282200567
 
